@@ -31,3 +31,7 @@
 #Dashboard overview
 <img width="1536" height="1024" alt="E8305C59-A98A-41E6-8422-EC21EBF232BC" src="https://github.com/user-attachments/assets/175c3f21-3d9b-4e77-b9ef-bec8eaceb1fd" />
 
+#SQL Queries
+<img width="1024" height="1536" alt="2C81BC53-63F6-4CEB-B05A-A8228EC060E8" src="https://github.com/user-attachments/assets/98d4ae84-f756-449d-a806-dae15ac1da8b" />
+
+
